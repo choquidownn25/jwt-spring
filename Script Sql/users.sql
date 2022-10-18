@@ -39,18 +39,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `email`, `password`, `username`) VALUES
-(1, 'mod@bezkoder.com', '$2a$10$BtIQXy2bxJDHXYaF2KqZ0.6Vs3JYoqIu4BR3DTLXeKBU/llBy2oxe', 'admin'),
-(2, 'mods@bezkoder.com', '$2a$10$W/D/NfwiLPGodGkbkGG41O0r1V8cLDCRqgNLBFjDT.j.Pt.IuP7UG', 'mod'),
-(3, 'zkoder@bezkoder.com', '$2a$10$hw23utpuG8kIvrBQsl8jNuYpuvTC8i3Gcz7lz.fzxTpj75ryBJ9MG', 'zkoder'),
-(4, 'madrebella@madrebella.com', '$2a$10$QgZ2xRk.ggz3gM/tcNSG2.3niXW/oG6x1YoocLb3I9bOw2Lx7aJfe', 'madrebella'),
-(5, 'jose_sarria2003@yahoo.com.mx', '$2a$10$FlT9vYkIFjwIUENXTb2Tq.dV1l3qA5oMHQ/a84xZQfR3lRHHVqk0y', 'jsarria'),
-(6, 'choquidownn2255@gmail.com', '$2a$10$aO57q32qC6KGgN6/w4ye5e6e1mFu3kuJQHjB8t4yCOf/PZj5aBOhO', 'jose_sarria2003'),
-(7, 'choquidownn2255@outlook.com', '$2a$10$YH5ZnNBq32RAnuY50A/Pdu9oLzpP.uvU.2SgijR/yO2BDmXPbRCY6', 'tranceelectronica201'),
-(8, 'cho25@gmail.com', '$2a$10$bupxju7xpTRjzaGAIMy2w.FH4jwO6bRe7QponCqpkPHlLa93d/8Yq', 'cho25@gmail.com'),
-(9, 'jose_sarria20@yahoo.com.mx', '$2a$10$7NFc0utp1kRpgY4bPV1UTOGww/mL1Rj1zPTW31/.XkFfR0AJlbgoi', 'jose_sarria23@yaho'),
-(10, 'choquidownn0@gmail.com', '$2a$10$Bq1g/zSoA5xUB/d79YGFGeWVYP8CKq6Ci0auMMOiOJ1ZLsiX1aN0S', 'MadreHermosa'),
-(11, 'mod@lista.com.mx', '$2a$10$uaqAI2EmyrajfxBq1t5NreqNjyBBgF6tl.vhVb/5XFb2KGLxe/MoO', 'joe'),
-(12, 'lista@lista.com.mx', '$2a$10$M65PxCDWoxB7TSYxmItwvevxAiLGYZAyooJfYY6AYA1NGYprI42Uu', 'lis');
+(1, 'mod@modsytembt.com', '$2a$10$BtIQXy2bxJDHXYaF2KqZ0.6Vs3JYoqIu4BR3DTLXeKBU/llBy2oxe', 'admin;
 
 --
 -- Indexes for dumped tables
