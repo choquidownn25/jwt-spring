@@ -39,7 +39,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `email`, `password`, `username`) VALUES
-(1, 'mod@modsytembt.com', '$2a$10$BtIQXy2bxJDHXYaF2KqZ0.6Vs3JYoqIu4BR3DTLXeKBU/llBy2oxe', 'admin;
+(1, 'mod@modsytembt.com', '$2a$10$BtIQXy2bxJDHXYaF2KqZ0.6Vs3JYoqIu4BR3DTLXeKBU/llBy2oxe', 'admin);
 
 --
 -- Indexes for dumped tables
