@@ -1,8 +1,8 @@
-# Spring-Boot-Account
-Realiza proyectó de autenticación de usuario, ello se realiza un rol y envíe email de activación
+# Spring-Boot-Account JWT
+Realiza proyectó de autenticación de usuario, ello se realiza un rol y envíe Token para su autorizacion
 
-![userrolemembership1](https://github.com/choquidownn25/Spring-Boot-Account/blob/main/image/loguin.jpg)
-![userrolemembership2](https://github.com/choquidownn25/Spring-Boot-Account/blob/main/image/registre.jpg)
+![userrolemembership1](https://github.com/choquidownn25/jwt-spring/blob/main/Image/Signup.jpg)
+![userrolemembership2](https://github.com/choquidownn25/jwt-spring/blob/main/Image/Token.jpg)
 
 
 # Features
@@ -10,9 +10,7 @@ Realiza proyectó de autenticación de usuario, ello se realiza un rol y envíe 
 - spring initializr https://start.spring.io/
 - Maven
 - Java 11
-- Beautiful Bootstrap
 - Web API 
-- Thymeleaf
 - Lombok
 - JPA
 - Validation
